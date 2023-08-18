@@ -10,7 +10,7 @@ class TeamData {
 
 namespace league {
     //% fixedInstance whenUsed block="Arizona Cardinals"
-    export const arizonaCardinals = new TeamData("Arizona Cardinals", "ARI", 0x97233F, 0xFFB612);
+    export const calgaryStampeders = new TeamData("Calgary Stampeders", "YYC", 0xFF0000, 0x000000);
 
     //% fixedInstance whenUsed block="Atlanta Falcons"
     export const atlantaFalcons = new TeamData("Atlanta Falcons", "ATL", 0xA71930, 0xA5ACAF);
